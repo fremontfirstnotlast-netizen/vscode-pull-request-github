@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/vscode/vscode-pull-request-github/_apis/build/status/vscode-pull-request-github%20%28pr%29?branchName=main)](https://dev.azure.com/vscode/vscode-pull-request-github/_build?definitionId=44&branchName=main)
+C++[![Build Status](https://dev.azure.com/vscode/vscode-pull-request-github/_apis/build/status/vscode-pull-request-github%20%28pr%29?branchName=main)](https://dev.azure.com/vscode/vscode-pull-request-github/_build?definitionId=44&branchName=main)
 
 > Review and manage your GitHub pull requests and issues directly in VS Code
 

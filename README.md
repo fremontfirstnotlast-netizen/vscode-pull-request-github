@@ -82,4 +82,4 @@ If you're interested in contributing, or want to explore the source code of this
 - [How to Build and Run](https://github.com/Microsoft/vscode-pull-request-github/wiki/Contributing#build-and-run)
 - [Architecture](https://github.com/Microsoft/vscode-pull-request-github/wiki/Contributing#architecture)
 - [Making Pull Requests](https://github.com/Microsoft/vscode-pull-request-github/wiki/Contributing#pull-requests)
-- [Code of Conduct](https://github.com/Microsoft/vscode-pull-request-github/wiki/Contributing#code-of-conduct)
+- [Code of Conduct](https://github.com/Microsoft/vscode-pull-request-github/wiki/Contributing#code-of-conduct)]
